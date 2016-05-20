@@ -27,6 +27,9 @@ Indentified some visual patterns and "factorized" them into the CSS. Initially y
 Then I enter into the details and iterate to capture every detail and mapping it directly in the HTML or through CSS.
 The CSSs have been assessed as unnecessary, since in the case of bootstrap no grid layout was necessary. This may be undertand by me as a wrong choice as the initial strating point or a bad "mental design", 
 believing some kind of "compartimentation" or "division in boxes through rows and coluns could be revealed into the iterating process of testing. That was not the case. So I understand I complicated what could be simpler.
+You can format (improve look-and-feel), althought IMO, it´s only useful the first commit in Git repository, for examplo. Why? Because if eveyone formts the page after a little or big corrrection, the work of merging or commits changes that shows clearly what was changed or modified by the developer to fix a bug for examplo, or insert a new functionality are totally jeopardize by this formatting, as the Control version Tool, may appoint as changes several places or indicates that all document was transformed and altered, and then,
+we return for the visual, slow, error-prone validation of the commit or merge of code. A beutuful thing for the developer but nullify the work of who validade changes that must enter the code and what must be tested and validate by some other people that play this role of versioning validation for testing.
+We can verify if the document is well formed, i this case, I only see advantages, for the integrity and predictability of renderization on several browsers (may help a lot at least).
 
 •What has been easy?
 
@@ -49,5 +52,6 @@ I felt deadlocked and leave it as it is, maybe it is irrelevant for the assessem
 -Used CSS to speed up the development, mainly in the several last iterations to modify and be near to the mockup image.
 -In this second version, paid attention to the good and precise recomendations in the review, I hope the changes I've made can be sufficient to match the mocup visually and "codely", let's see.
 
+OK, let's if this time I left something to improve or correct. I feel close to full accomplishment.
 
 -Kaoru Ronaldo Kishimoto.
