@@ -10,6 +10,7 @@
 ## O mockup está na forma de um arquivo pdf e tem a sua aparência na seguinte forma:
 
 Mockup
+
 ![mockup](./blog-mockup.png)
 
 
