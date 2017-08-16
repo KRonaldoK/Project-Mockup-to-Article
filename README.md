@@ -1,4 +1,4 @@
-# Conversão de Mockup para HTML sem CSS
+# Conversão de Mockup para HTML sem CSS, sem imagem responsiva, sem Flexbox.
 ## Projeto Mockup Simples
 
 1. Conversão de um protótipo de design (imagem) em uma página web, utilizando apenas HTML, sem CSS.
